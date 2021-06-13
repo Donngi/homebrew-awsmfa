@@ -1,8 +1,8 @@
 class Awsmfa < Formula
   desc "Simple cli tool for AWS MFA (multi factor authentication)"
   homepage "https://github.com/Jimon-s/awsmfa"
-  url "https://github.com/Jimon-s/awsmfa/archive/v1.0.1.tar.gz"
-  sha256 "07934399a243cf5f3a12c5856893e8f5595ca4a0a7d8077027f98d881b3a205a"
+  url "https://github.com/Jimon-s/awsmfa/archive/v1.0.2.tar.gz"
+  sha256 "88dc79a6fb5eb2abc45140b052ea312b0c76cf66855ff4203567655eb1519191"
   license "MIT"
 
   depends_on "go" => :build
